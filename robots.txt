@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://comistec.github.io/sitemap.txt
